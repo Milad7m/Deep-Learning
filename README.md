@@ -1,2 +1,2 @@
-# Deep-Learning-
-Great Milad Deep Learning Apps &amp; Projects 
+# Deep-Learning
+This Repositoy Is Devoted To My Innovative Deep Learning Models , Projects & Applications Using Cutting Edge Technology 
